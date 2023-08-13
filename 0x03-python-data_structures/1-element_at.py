@@ -5,5 +5,5 @@ def element_at(my_list, idx)
 	elif int(idx) > len(my_list):
 		return None
 	else:
-	 	print my_list(idx)
+	 	print my_list[idx]
 
